@@ -1,0 +1,2 @@
+{"_id":"transaksi_001","customer_id":"customer_001","barang_id":"barang_001","tanggal":"25-12-2024","pembayaran":50000,"jangka":"5 bulan"}
+{"_id":"transaksi_002","customer_id":"customer_002","barang_id":"barang_002","tanggal":"26-12-2024","pembayaran":70000,"jangka":"3 bulan"}
